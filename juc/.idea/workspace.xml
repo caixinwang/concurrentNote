@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d3b32ec-27ef-48bd-83d3-ef2a82fffcb3" name="变更" comment="l">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2N3JkbIpvjjphhm99389mPtw8O8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/message/JavaProject/juc/src/C3_Synchronized&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\message\JavaProject\juc\src\C3_Synchronized" />
+      <recent name="D:\message\JavaProject\juc" />
+      <recent name="D:\message\JavaProject\juc\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="C4_AbstractExecutorService" />
+      <recent name="C2_Feature.Code03_Atom" />
+      <recent name="C2_Feature.Code01_Visibility" />
+      <recent name="C2_Feature.Util" />
+      <recent name="C1_Thread.Code04_Stop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Code01_catchException (1)">
+    <configuration name="Code01_catchException (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5_ThreadPoolExecutor.Code01_catchException" />
+      <module name="juc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C5_ThreadPoolExecutor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code01_catchException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5_ThreadPoolExecutor.Code01_catchException" />
+      <module name="juc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C5_ThreadPoolExecutor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code04_New" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C4_AbstractExecutorService.Code04_New" />
+      <module name="juc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C4_AbstractExecutorService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code05_Increase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C4_AbstractExecutorService.Code05_Increase" />
+      <module name="juc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C4_AbstractExecutorService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code05_Increase2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C4_AbstractExecutorService.Code05_Increase2" />
+      <module name="juc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C4_AbstractExecutorService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Code01_catchException (1)" />
+        <item itemvalue="Application.Code01_catchException" />
+        <item itemvalue="Application.Code05_Increase2" />
+        <item itemvalue="Application.Code05_Increase" />
+        <item itemvalue="Application.Code04_New" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8d3b32ec-27ef-48bd-83d3-ef2a82fffcb3" name="变更" comment="" />
+      <created>1678886975229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678886975229</updated>
+      <workItem from="1678886976495" duration="1498000" />
+      <workItem from="1679031922982" duration="3000" />
+      <workItem from="1680423698897" duration="12885000" />
+      <workItem from="1680445798698" duration="19000" />
+      <workItem from="1680504821204" duration="12672000" />
+      <workItem from="1680527717085" duration="950000" />
+      <workItem from="1680531096746" duration="9000" />
+      <workItem from="1680594623073" duration="8970000" />
+      <workItem from="1680656862448" duration="118000" />
+      <workItem from="1680681933920" duration="4388000" />
+      <workItem from="1681193492575" duration="11370000" />
+      <workItem from="1681223199506" duration="10000" />
+      <workItem from="1681484655576" duration="30000" />
+      <workItem from="1681484696503" duration="4000" />
+      <workItem from="1681987950354" duration="12906000" />
+      <workItem from="1682003321317" duration="9000" />
+      <workItem from="1682073164549" duration="11983000" />
+      <workItem from="1682089700809" duration="9000" />
+      <workItem from="1682246082656" duration="470000" />
+      <workItem from="1682246565101" duration="1209000" />
+      <workItem from="1682315180714" duration="105000" />
+      <workItem from="1682319695969" duration="8374000" />
+      <workItem from="1682333569421" duration="8511000" />
+      <workItem from="1682389901122" duration="7000" />
+    </task>
+    <task id="LOCAL-00001" summary="l">
+      <created>1680423843104</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680423843104</updated>
+    </task>
+    <task id="LOCAL-00002" summary="l">
+      <created>1680443736320</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680443736320</updated>
+    </task>
+    <task id="LOCAL-00003" summary="l">
+      <created>1680705658662</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680705658662</updated>
+    </task>
+    <task id="LOCAL-00004" summary="l">
+      <created>1680705899989</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680705899989</updated>
+    </task>
+    <task id="LOCAL-00005" summary="l">
+      <created>1681484666797</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681484666797</updated>
+    </task>
+    <task id="LOCAL-00006" summary="l">
+      <created>1682003306029</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682003306029</updated>
+    </task>
+    <task id="LOCAL-00007" summary="l">
+      <created>1682089665363</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682089665363</updated>
+    </task>
+    <task id="LOCAL-00008" summary="l">
+      <created>1682343798276</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682343798276</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="l" />
+    <option name="LAST_COMMIT_MESSAGE" value="l" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
