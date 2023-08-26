@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d3b32ec-27ef-48bd-83d3-ef2a82fffcb3" name="变更" comment="l">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../多线程与高并发.md" beforeDir="false" afterPath="$PROJECT_DIR$/../多线程与高并发.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -45,7 +45,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/message/JavaProject/juc/src/C3_Synchronized&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Notes/多线程与高并发/juc/src/C5_ThreadPoolExecutor&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -53,11 +54,13 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Notes\多线程与高并发\juc\src\C5_ThreadPoolExecutor" />
       <recent name="D:\message\JavaProject\juc\src\C3_Synchronized" />
       <recent name="D:\message\JavaProject\juc" />
       <recent name="D:\message\JavaProject\juc\src" />
@@ -85,11 +88,24 @@
       </method>
     </configuration>
     <configuration name="Code01_catchException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C5_ThreadPoolExecutor.Code01_catchException" />
+      <option name="MAIN_CLASS_NAME" value="C5_JUC_Source.Code01_catchException" />
       <module name="juc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C5_ThreadPoolExecutor.*" />
+          <option name="PATTERN" value="C5_JUC_Source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code01_catchException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5_JUC_Source.Code01_catchException" />
+      <module name="juc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C5_JUC_Source.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,6 +194,8 @@
       <workItem from="1682319695969" duration="8374000" />
       <workItem from="1682333569421" duration="8511000" />
       <workItem from="1682389901122" duration="7000" />
+      <workItem from="1687597945216" duration="2213000" />
+      <workItem from="1687613396023" duration="264000" />
     </task>
     <task id="LOCAL-00001" summary="l">
       <created>1680423843104</created>
